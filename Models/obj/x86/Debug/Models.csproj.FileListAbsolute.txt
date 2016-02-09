@@ -1,0 +1,6 @@
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\Models\bin\x86\Debug\Models.dll
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\Models\bin\x86\Debug\Models.pdb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\Models\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\Models\obj\x86\Debug\Models.dll
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\Models\obj\x86\Debug\Models.pdb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\Models\obj\x86\Debug\Models.csprojResolveAssemblyReference.cache

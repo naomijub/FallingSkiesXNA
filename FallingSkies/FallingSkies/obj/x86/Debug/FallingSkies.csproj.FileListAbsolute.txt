@@ -1,0 +1,16 @@
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\FallingSkies.exe
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\FallingSkies.pdb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\obj\x86\Debug\FallingSkies.csprojResolveAssemblyReference.cache
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\obj\x86\Debug\FallingSkies.exe
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\obj\x86\Debug\FallingSkies.pdb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\Content\Images\blueBall.xnb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\Content\Images\cannon.xnb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\Content\Images\greenBall.xnb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\Content\Images\redBall.xnb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\Content\Sounds\shoot.xnb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\Content\Sounds\shoot.wma
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\Models.dll
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\Models.pdb
+C:\Users\JAT\Documents\Visual Studio 2010\Projects\FallingSkies\FallingSkies\FallingSkies\bin\x86\Debug\Content\scoreFont.xnb
