@@ -24,7 +24,7 @@ namespace Models
         public Balls() {
             Random rg = new Random();
             gameTime = new GameTime();
-            radius = 8;
+            radius = 10;
             speed = ((gameTime.TotalGameTime.Milliseconds + rg.Next(1, 11)) % 5) + 1;           
             vector = new Vector2(placeX(), 0);
         }
@@ -54,9 +54,15 @@ namespace Models
             int vecX = (int)vector.X;
             int vecY = (int)vector.Y;
 
-            if (((x + rad) >= (vecX - radius)) && ((x - rad) <= (vecX + radius))
-                    && ((y + rad) >= (vecY - radius)) && ((y - rad) <= (vecY + radius))) {
-                        return true;
+            if (((y + rad) >= (vecY - radius)) && ((y - rad) <= (vecY + radius)))
+            {
+                if (((x + rad) >= (vecX - radius)) && ((x - rad) <= (vecX + radius)))
+                {
+                    return true;
+                }
+                if (x == vecX) {
+                    return true;
+                }
             }
             return false;
         }

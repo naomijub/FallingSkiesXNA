@@ -16,18 +16,23 @@ namespace Models
     public class Bullet
     {
         private int speed;
+        private double acceleration;
+        public static int timing;
 
         public Bullet(int speed)
         {
             this.speed = speed;
+            timing = 0;
+            acceleration = 0.0005;
         }
 
         public Vector2 steps(float angle) {
-            double adj = 5 * Math.Cos(angle);
-            double op = 5 * Math.Sin(angle);
+            timing++;
+            double adj = speed * Math.Cos(angle);
+            double op = speed * Math.Sin(angle);
 
             int adjAux = (int)adj;
-            int opAux = (int)op;
+            int opAux = (int)(op + (acceleration * timing));
 
             Vector2 aux = new Vector2(adjAux, opAux);
             return aux;
